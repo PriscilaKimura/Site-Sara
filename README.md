@@ -1,6 +1,6 @@
 # Site para a Fonoaudióloga Sara Marque
 
-Bem-vindo ao repositório do site da Fonoaudióloga Sara Marque!
+Bem-vindo ao repositório do site da Fonoaudióloga Sara Marque! Você pode acessar o site ao vivo através do [link aqui](https://sara-marques.vercel.app/).
 
 Este repositório contém o código-fonte do site criado para promover a presença online da Fonoaudióloga Sara Marque. Este projeto foi desenvolvido com o objetivo de destacar os serviços oferecidos na área de fonoaudiologia, além de proporcionar uma experiência agradável e informativa para os visitantes.
 
