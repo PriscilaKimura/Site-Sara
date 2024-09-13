@@ -124,18 +124,33 @@ h1 {
 .card {
   margin-bottom: 4rem;
   border: 2px solid #3f8ab9;
-  transition: all 0.1s ease;
+  transition: border 0.1s ease, transform 0.1s ease; 
+  position: relative;
+  overflow: hidden; 
 }
 
 .card:hover {
   border: 3.5px solid #3f8ab9;
-  transition: 0.1s;
   transform: translateY(-5px);
+  
+}
+
+.card-text {
+  position: relative;
+  z-index: 1; 
+  transition: none; 
 }
 
 .card h5 {
   font-family: 'Times New Roman', Times, serif;
   font-weight: bold;
+  transition: none; 
+  position: relative;
+}
+
+.card-body {
+  position: relative;
+  z-index: 1; 
 }
 
 .depoimentos {
@@ -167,7 +182,6 @@ h1 {
   cursor: pointer;
 }
 
-/* Animation */
 .hide {
   opacity: 0;
   filter: blur(15px);
@@ -236,7 +250,6 @@ svg:hover path {
   border-bottom: 2px solid #00000029 !important;
 }
 
-/* Footer */
 .footer {
   background-color: #0a1013;
   color: #f0efee;
@@ -266,7 +279,6 @@ svg:hover path {
   margin-bottom: 0; 
 }
 
-/* bootstrap extends */
 .pt-6 {
   padding-top: 8rem;
 }
