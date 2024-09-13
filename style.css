@@ -68,14 +68,14 @@
 }
 
 h1 {
-  font: 3.5rem 'Times New Roman', Times, serif;
-  color:  #201f1f;
+  font: 3.0rem 'Times New Roman', Times, serif;
+  color: #f0efee;
 }
 
-h3 {
-  font: 2.5rem 'Times New Roman', Times, serif;
-  color: #f0efee;
-  opacity: 0;
+.home h2 {
+  font: 2.0rem 'Times New Roman', Times, serif;
+  color: #f0efee; 
+ 
 }
 
 .btn {
@@ -138,7 +138,6 @@ h3 {
   font-weight: bold;
 }
 
-/* Depoimentos */
 .depoimentos {
   background-color: #ffffff;
   padding-bottom: 4rem;
@@ -191,8 +190,6 @@ h3 {
   transition-delay: 700ms;
 }
 
-/* Contato */
-
 .contato {
   background-color: #0a1013;
   padding-block: 4rem;
@@ -205,12 +202,13 @@ h3 {
   font: 2.5rem 'Times New Roman', Times, serif;
 }
 
-.informacoes h3 {
-  font: 2rem 'Times New Roman', Times, serif;
+.btn-primary {
+  margin-bottom: 30px; 
 }
 
 .informacoes p {
   opacity: 0.7;
+  margin-bottom: 20px;
 }
 
 .informacoes span {
@@ -221,8 +219,6 @@ svg:hover path {
   fill: #0e7cbb;
   transition: fill 0.3s;
 }
-
-/* faq */
 
 .faq {
   background-color: #ffffff;
@@ -238,17 +234,6 @@ svg:hover path {
 .faq .card {
   border: 1px solid #00000029;
   border-bottom: 2px solid #00000029 !important;
-}
-
-/* Footer */
-.footer {
-  background-color: #0a1013;
-  color: #f0efee;
-  padding: 0.5rem 1rem; 
-  position: relative;
-  bottom: 0;
-  width: 100%;
-  text-align: right; 
 }
 
 /* Footer */
@@ -282,7 +267,6 @@ svg:hover path {
 }
 
 /* bootstrap extends */
-
 .pt-6 {
   padding-top: 8rem;
 }
@@ -314,16 +298,10 @@ svg:hover path {
     font: 2.5rem 'Times New Roman', Times, serif;
     color: #f0efee;
   }
-
-  .home h3 {
-    font: 2rem 'Times New Roman', Times, serif;
-    color: #f0efee;
-    opacity: 0;
-  }
-
+  
   .home p {
     width: 70%;
-    color: #f0efee;
+    color: #201f1f;
     opacity: 0.8;
   }
 }
