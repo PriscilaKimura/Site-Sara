@@ -1,31 +1,33 @@
-# Site para Advogada Isabela Mendes
+# Site para a Fonoaudióloga Sara Marque
 
-Bem-vindo ao repositório do site fictício da Advogada Isabela Mendes!
+Bem-vindo ao repositório do site da Fonoaudióloga Sara Marque!
 
-Este repositório contém o código-fonte do site criado para simular a presença online de uma advogada fictícia, no caso, a Advogada Isabela Mendes. Este projeto foi desenvolvido com o propósito de demonstrar habilidades em desenvolvimento web e design de interface.
+Este repositório contém o código-fonte do site criado para promover a presença online da Fonoaudióloga Sara Marque. Este projeto foi desenvolvido com o objetivo de destacar os serviços oferecidos na área de fonoaudiologia, além de proporcionar uma experiência agradável e informativa para os visitantes.
 
 ## Visão Geral
 
-O site foi projetado para apresentar de forma clara e concisa os serviços jurídicos oferecidos pela Advogada Isabela Mendes, bem como fornecer informações úteis para visitantes imaginários. Além disso, o site oferece uma maneira fictícia para os clientes potenciais entrarem em contato.
+O site foi projetado para apresentar, de forma clara e acessível, os serviços oferecidos por Sara Marque, especializada em fonoaudiologia. O conteúdo busca fornecer informações detalhadas sobre os tratamentos, bem como oferecer uma maneira fácil para que os clientes potenciais entrem em contato.
 
 ## Funcionalidades Principais
 
-- **Página Inicial:** Uma breve introdução à prática jurídica da Advogada Isabela Mendes e aos serviços oferecidos.
-- **Sobre:** Detalhes sobre a experiência profissional e a abordagem da advogada.
-- **Serviços:** Uma descrição dos serviços jurídicos oferecidos, com informações adicionais sobre áreas de especialização.
-- **Depoimentos:** Feedback de clientes sobre os serviços prestados pela Advogada Isabela Mendes.
-- **Contato:** Formulário de contato e informações de contato para clientes em potencial.
-- **FAQ:** Perguntas frequentes sobre questões jurídicas comuns e procedimentos legais.
+- **Página Inicial:** Uma introdução ao trabalho da Fonoaudióloga Sara Marque e aos serviços disponíveis.
+- **Sobre:** Informações detalhadas sobre a experiência e o perfil profissional de Sara Marque.
+- **Serviços:** Descrição completa dos tratamentos e serviços fonoaudiológicos oferecidos, incluindo especializações em áreas como voz, audição e linguagem.
+- **Depoimentos:** Comentários e feedbacks de pacientes satisfeitos com os resultados dos tratamentos.
+- **Contato:** Formulário de contato e informações para agendamento de consultas ou obtenção de mais informações.
+- **FAQ:** Perguntas frequentes sobre os serviços de fonoaudiologia, procedimentos e tratamentos.
 
 ## Tecnologias Utilizadas
 
-- **HTML5:** Linguagem de marcação para estruturação do conteúdo da web.
-- **CSS3:** Folhas de estilo para estilização e design do site.
-- **JavaScript:** Adiciona interatividade e funcionalidades dinâmicas ao site.
-- **Bootstrap:** Framework CSS para design responsivo e facilitar o desenvolvimento.
-- **Git:** Sistema de controle de versão para colaboração e gerenciamento de código-fonte.
-- **GitHub Pages:** Hospedagem gratuita de sites estáticos diretamente a partir de um repositório no GitHub.
+- **HTML5:** Para a estruturação do conteúdo e das páginas.
+- **CSS3:** Estilização e layout do site, criando uma experiência visual agradável.
+- **JavaScript:** Adiciona interatividade, incluindo animações e funcionalidades dinâmicas.
+- **Bootstrap:** Utilizado para garantir um design responsivo e consistente em diferentes dispositivos.
+- **Git:** Controle de versão utilizado durante o desenvolvimento.
+
 
 ## Contribuição
 
-Este projeto foi desenvolvido como parte de uma iniciativa pessoal para aprimorar habilidades de desenvolvimento web. No entanto, sugestões e feedbacks são sempre bem-vindos!
+Este projeto foi desenvolvido para aprimorar habilidades em desenvolvimento web e auxiliar na construção da presença online da Fonoaudióloga Sara Marque. Sugestões, melhorias e feedbacks são sempre bem-vindos!
+
+
