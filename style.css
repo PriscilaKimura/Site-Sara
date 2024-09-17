@@ -15,11 +15,11 @@
   display: flex;
   justify-content: space-between;
   width: 100%;
-  padding: 0.5rem 1rem;
+  padding: 0rem 1rem;
 }
 
 #navbarNav {
-  padding: 0.5rem 1rem;
+  padding: 0rem 1rem;
 }
 
 .nav-container {
@@ -299,6 +299,7 @@ svg:hover path {
 
   .home {
     height: 400px;
+    margin-top: 2rem; 
   }
 
   .content-home {
@@ -309,6 +310,7 @@ svg:hover path {
   .home h1 {
     font: 2.5rem 'Times New Roman', Times, serif;
     color: #f0efee;
+    padding-top: 1rem;
   }
   
   .home p {

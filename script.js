@@ -9,7 +9,6 @@ const myObserver = new IntersectionObserver((entries) => {
 });
 
 const elements = document.querySelectorAll('.hide');
-
 elements.forEach((element) => myObserver.observe(element));
 
 const linksInternos = document.querySelectorAll('.js-menu a[href^="#"]');
@@ -30,7 +29,7 @@ function scrollToSection(event) {
     behavior: 'smooth',
   });
 
-  if (navbarCollapse.classList.contains('show')) {
+  if (window.innerWidth <= 800 && navbarCollapse.classList.contains('show')) {
     navbarToggler.click();
   }
 }
