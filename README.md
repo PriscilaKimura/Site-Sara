@@ -30,5 +30,8 @@ O site foi projetado para apresentar, de forma clara e acessível, os serviços 
 
 Este projeto foi desenvolvido para aprimorar habilidades em desenvolvimento web e auxiliar na construção da presença online da Fonoaudióloga Sara Marque. Sugestões, melhorias e feedbacks são sempre bem-vindos!
 
-https://github.com/user-attachments/assets/a8de22a0-f71f-47f4-a16d-8c1e5734bba3
+https://github.com/user-attachments/assets/5f29bea9-fcb9-449e-842d-2c3b519bf8dc
+
+
+
 
